@@ -20,8 +20,8 @@ public class Card
    
    /** Constructor that initiates and sets the rank and
    the suit to the inputs and arguements
-   @param rank is the the number value given to the individual card
-   @param suit is the suit given to the card
+   @param rnk is the the number value given to the individual card
+   @param st is the suit given to the card
    */
    
    public Card(int rnk, int st)

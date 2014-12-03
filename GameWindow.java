@@ -14,9 +14,7 @@ public class GameWindow extends JFrame
 {
       
    /**
-   Constructor 
-   @param name1 is the name of player1
-   @param name2 is name of player2
+   Constructor
    */   
    public GameWindow()
    {
